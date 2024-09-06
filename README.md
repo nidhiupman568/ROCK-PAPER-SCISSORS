@@ -2,6 +2,8 @@
 
 Welcome to my Rock Paper Scissors game! 🎮 This project brings the classic hand game to life using HTML 📝, CSS 🎨, and JavaScript 💻.
 
+Project Demo: https://nidhiupman568.github.io/ROCK-PAPER-SCISSORS/
+
 ## Features ✨
 
 - **Interactive Gameplay**: Use buttons to choose between rock ✊, paper 📄, or scissors ✂️.
